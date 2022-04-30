@@ -1591,13 +1591,13 @@
 
 <script>
 export default {
-  name: 'Icons',
+  name: "Icons",
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
-    }
+      msg: "Welcome to Your Vue.js App"
+    };
   }
-}
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
